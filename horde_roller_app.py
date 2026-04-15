@@ -260,7 +260,7 @@ def remove_target(i):
 
 # ── Header ────────────────────────────────────────────────────────
 st.markdown('<div class="title-text">⚔ Horde Roller ⚔</div>', unsafe_allow_html=True)
-st.markdown('<div class="subtitle-text">Let slip the dice of war</div>', unsafe_allow_html=True)
+st.markdown('<div class="subtitle-text">For the Glory of the Clerics</div>', unsafe_allow_html=True)
 st.markdown('<div class="rune-divider">✦ ✦ ✦</div>', unsafe_allow_html=True)
 
 # ── Horde Settings ────────────────────────────────────────────────
